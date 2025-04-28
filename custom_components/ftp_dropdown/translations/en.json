@@ -1,0 +1,19 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure FTP Dropdown",
+        "description": "Connect to your FTP server and fetch files.",
+        "data": {
+          "host": "FTP Server IP",
+          "username": "FTP Username",
+          "password": "FTP Password",
+          "directory": "Directory Path"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Cannot connect to FTP server."
+    }
+  }
+}

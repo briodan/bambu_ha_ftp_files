@@ -1,0 +1,10 @@
+{
+  "domain": "ftp_dropdown",
+  "name": "FTP Dropdown",
+  "version": "3.0.1-debug",
+  "config_flow": true,
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
